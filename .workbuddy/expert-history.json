@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "sessions": {
+    "fbd0cfd62df9467295074be6b356bd98": [
+      {
+        "expertId": "TencentCharityExpert",
+        "name": "小益",
+        "profession": "腾讯技术公益智能化专家",
+        "avatarUrl": "https://acc-1258344699.cos.accelerate.myqcloud.com/workbuddy/experts/avatars/11-ProfessionalServices/TencentCharityExpert/TencentCharityExpert.png",
+        "promptUrl": "https://acc-1258344699.cos.accelerate.myqcloud.com/workbuddy/experts/experts/11-ProfessionalServices/TencentCharityExpert/TencentCharityExpert_zh.md",
+        "usedAt": 1776393042130,
+        "industryId": "all"
+      }
+    ]
+  },
+  "lastUpdated": 1776399226261
+}

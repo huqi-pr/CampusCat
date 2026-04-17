@@ -1,0 +1,6 @@
+猫咪ID,昵称,照片-正面,照片-侧面,照片-背部,毛色,花纹特征,体型,特殊标记,常出没地点,绝育状态,健康状况,性格标签,首次发现日期,最后更新日期,备注
+CAT001,大黄,https://example.com/cat001-1.jpg,https://example.com/cat001-2.jpg,https://example.com/cat001-3.jpg,橘色,纯色,中等,左耳有缺口,图书馆后门,已绝育,健康,亲人可摸,2024-09-15,2025-04-17,已接种疫苗
+CAT002,小白,https://example.com/cat002-1.jpg,https://example.com/cat002-2.jpg,https://example.com/cat002-3.jpg,白色,头顶一撮黑,小型,尾巴卷曲,食堂门口,待绝育,健康,胆小怕人,2024-10-02,2025-04-15,需重点关注
+CAT003,花花,https://example.com/cat003-1.jpg,https://example.com/cat003-2.jpg,https://example.com/cat003-3.jpg,三花,混色花纹,中等,右前爪白色,教学楼A座,已绝育,治疗中,可摸不可抱,2024-08-20,2025-04-16,腿部受伤恢复中
+CAT004,黑豹,https://example.com/cat004-1.jpg,https://example.com/cat004-2.jpg,https://example.com/cat004-3.jpg,黑色,纯色,大型,眼睛黄色,操场看台,未确定,健康,不亲人,2025-01-10,2025-04-14,夜间活动频繁
+CAT005,咪咪,https://example.com/cat005-1.jpg,https://example.com/cat005-2.jpg,https://example.com/cat005-3.jpg,狸花,条纹,小型,耳朵很大,宿舍区,已绝育,健康,非常亲人,2024-11-05,2025-04-17,喜欢被抱
